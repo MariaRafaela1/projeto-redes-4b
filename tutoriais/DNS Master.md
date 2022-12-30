@@ -1,7 +1,7 @@
 # DNS Master
 
 * instalando o bind9
-  * ``$ sudo apt-get install bind9 dnsutils bind9-doc -y``
+  * ``$ sudo apt-get install bind9 dnsutils bind9-doc``
   <p><center> Figura 1: instalando o bind9 </center></p>
 <img src="figures/DNSmaster/1.png" alt=""
      title="Figura 1: instalando o bind9" width="1000" height="auto"/></br>
