@@ -97,12 +97,12 @@
 
 #### Trocando o endereço IP para o IP do SAMBA
 <p><center> Figura 18:Trocando o endereço IP para o IP do SAMBA</center></p>
-<img src="figures/gateway/image16.png" alt=""
+<img src="figures/gateway/samba.png" alt=""
      title="Figura 18: Trocando o endereço IP para o IP do SAMBA" width="1000" height="auto"/></br>
 
 #### Trocando o endereço IP para o IP do nameserver1
 <p><center> Figura 19: Trocando o endereço IP para o IP do nameserver1</center></p>
-<img src="figures/gateway/image12.png" alt=""
+<img src="figures/gateway/dns.png" alt=""
      title="Figura 19: Trocando o endereço IP para o IP do nameserver1" width="1000" height="auto"/></br>
 
 
