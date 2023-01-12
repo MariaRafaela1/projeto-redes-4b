@@ -22,7 +22,7 @@
   * Editando arquivo ``/etc/bind/named.conf.local``
   * ``$ sudo nano /etc/bind/named.conf.local``
 <p><center> Figura 4: Editando arquivo /etc/bind/named.conf.local </center></p>
-<img src="figures/DNSslave/image5.png" alt=""
+<img src="figures/DNSslave/ns2.png" alt=""
      title="Figura 4: Editando arquivo /etc/bind/named.conf.local" width="1000" height="auto"/></br>
 
 * Verificando status 
