@@ -99,4 +99,17 @@
   <p><center> Figura 14: adicionando os name servers </center></p>
 <img src="figures/DNSmaster/14.png" alt=""
      title="Figura 14: adicionando os name servers" width="1000" height="auto"/></br>
-
+     
+* Testes com DIG
+<p><center> Figura 15: Dig gateway </center></p>
+<img src="figures/DNSmaster/digGW.png" alt=""
+     title="Figura 15: Dig gateway" width="1000" height="auto"/></br>
+<p><center> Figura 16: Dig samba</center></p>
+<img src="figures/DNSmaster/digSMB.png" alt=""
+     title="Figura 16: Dig samba" width="1000" height="auto"/></br>
+ <p><center> Figura 17: Dig DNS master </center></p>
+<img src="figures/DNSmaster/digDNSm.png" alt=""
+     title="Figura 17: Dig DNS master" width="1000" height="auto"/></br>
+<p><center> Figura 18: Dig DNS slave </center></p>
+<img src="figures/DNSmaster/digDNSs.png" alt=""
+     title="Figura 18: Dig DNS slave" width="1000" height="auto"/></br>     
